@@ -1,0 +1,17 @@
+C:\Users\amars\Desktop\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\bin\Debug\ElectricalCurrent.exe
+C:\Users\amars\Desktop\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\bin\Debug\ElectricalCurrent.pdb
+C:\Users\amars\Desktop\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\obj\Debug\ElectricalCurrent.csprojResolveAssemblyReference.cache
+C:\Users\amars\Desktop\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\obj\Debug\ElectricalCurrent.FrmElectricalCurrent.resources
+C:\Users\amars\Desktop\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\obj\Debug\ElectricalCurrent.Properties.Resources.resources
+C:\Users\amars\Desktop\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\obj\Debug\ElectricalCurrent.csproj.GenerateResource.Cache
+C:\Users\amars\Desktop\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\obj\Debug\ElectricalCurrent.exe
+C:\Users\amars\Desktop\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\obj\Debug\ElectricalCurrent.pdb
+C:\Users\devon\OneDrive\Documents\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\bin\Debug\ElectricalCurrent.exe
+C:\Users\devon\OneDrive\Documents\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\bin\Debug\ElectricalCurrent.pdb
+C:\Users\devon\OneDrive\Documents\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\obj\Debug\ElectricalCurrent.csprojResolveAssemblyReference.cache
+C:\Users\devon\OneDrive\Documents\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\obj\Debug\ElectricalCurrent.FrmElectricalCurrent.resources
+C:\Users\devon\OneDrive\Documents\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\obj\Debug\ElectricalCurrent.Properties.Resources.resources
+C:\Users\devon\OneDrive\Documents\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\obj\Debug\ElectricalCurrent.csproj.GenerateResource.cache
+C:\Users\devon\OneDrive\Documents\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\obj\Debug\ElectricalCurrent.csproj.CoreCompileInputs.cache
+C:\Users\devon\OneDrive\Documents\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\obj\Debug\ElectricalCurrent.exe
+C:\Users\devon\OneDrive\Documents\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\obj\Debug\ElectricalCurrent.pdb
