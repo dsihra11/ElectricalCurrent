@@ -1,9 +1,4 @@
 # Read Me Template
-
-![Project Image]
-
-> This is a ReadMe template to help save you time and effort.
-
 ---
 
 ### Table of Contents
@@ -25,8 +20,6 @@ A C# program that calculates the value of the electrical current in amps using t
 - Microsoft Visual Studio 
 
 
-[Back To The Top](#read-me-template)
-
 ---
 
 ## How To Use
@@ -40,8 +33,6 @@ A C# program that calculates the value of the electrical current in amps using t
 7. The answer will show on the last textbox
 8. Press the Clear button if you want to enter new values or the Exit button to close the program  
 
-
-[Back To The Top](#read-me-template)
 ---
 
 ## Author Info
